@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543153855471",
+    "project_id": "mqtt-6ece6",
+    "storage_bucket": "mqtt-6ece6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543153855471:android:4a970500eaf938e30d341a",
+        "android_client_info": {
+          "package_name": "com.trabajomqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCY2Uv5SdeD2Naiez6Fz9WSZK5eiiIrN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
